@@ -1,6 +1,2 @@
 Some test text, and now i'm editing it
 now i'm adding more lines
-some 
-more
-text
-
