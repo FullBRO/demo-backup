@@ -1,4 +1,5 @@
 Some test text, and now i'm editing it
 now i'm adding more lines
-So there is main branch
-I'm writing some more into branch
+some 
+more
+text
